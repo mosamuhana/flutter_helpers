@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:listenable_extensions/listenable_extensions.dart';
+import 'package:flutter_helpers/flutter_helpers.dart';
 
 class Model {
   final _input = ValueNotifier<String>('');

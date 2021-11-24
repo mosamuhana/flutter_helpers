@@ -10,12 +10,12 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.4
-  listenable_extensions:
-    path: ../
   rxdart: ^0.27.2
   provider: ^6.0.1
   flutter_disposables:
     git: https://github.com/mosamuhana/flutter_disposables
+  flutter_helpers:
+    path: ../
 
 dev_dependencies:
   flutter_test:

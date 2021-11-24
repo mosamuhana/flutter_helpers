@@ -1,4 +1,4 @@
-import 'package:listenable_extensions/listenable_extensions.dart';
+import 'package:flutter_helpers/flutter_helpers.dart';
 
 class Model extends PropertyChangeNotifier<String> {
   int _foo = 0;
